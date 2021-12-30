@@ -1,4 +1,4 @@
-# <div align="center" style="color:pink">Author Ibrahim Koné </div>
+# Author Ibrahim Koné 
 # Cdiscount-Customer-Reviews-Analysis
 
 This app helps businesses identify, segment, and understand customers better. The companies can provide their frequent customer’s free merchandise, rewards, coupons, to encourage loyalty. They can also identify potential & promising customers, make suitable engagement programs to encourage/improve loyalty and long-term business. The app also shows Customer LifeTime Value and Cohort Analysis.
