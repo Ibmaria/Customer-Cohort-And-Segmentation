@@ -1,0 +1,75 @@
+<!-- Sidebar -->
+        <!-- Ajouter scroller bar si menu sidebar depasse scroller1  -->
+           {% load static %}
+        <ul class="navbar-nav  sidebar accordion colorside " id="accordionSidebar">
+          
+
+        <!-- Sidebar - Brand -->
+
+            <!-- Sidebar - Brand -->
+            <a class="sidebar-brand d-flex align-items-center" href="">
+                <!--<div class="sidebar-brand-icon rotate-n-15">
+                    <i class="fas fa-laugh-wink"></i>
+                </div> -->
+                <div class="sidebar-brand-text moniter mx-3">Monitoring </div>
+            </a>
+
+            <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+
+            <!-- Nav Item - Dashboard -->
+            <li class="nav-item active">
+                <a class="nav-link" href="#dashboard">
+                    <i class='bx bx-grid-alt'></i>
+                    <span>Dashboard</span></a>
+            </li>
+           
+
+            
+             <!-- Divider -->
+              <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+            <!-- Divider -->
+            <li class="nav-item active">
+              <a class="nav-link"  href="#cohort">
+                <i class="fas fa-tractor"></i>
+                <span>Analyse des cohortes</span>
+              </a>
+            </li>
+            <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+             <!-- Divider -->
+             <li class="nav-item active">
+                    <a class="nav-link"  href="#RFM">
+                      <i class="fas fa-robot"></i>
+                      <span>RFM</span>
+                    </a>
+              </li>
+              <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+            <!-- Divider -->
+           
+             
+              <!-- Divider -->
+            
+              
+
+            <li class="nav-item active">
+                <a class="nav-link" href="{% url 'homepage' %}">
+
+                   <i class="fas fa-sms"></i>
+                    <span>Chat</span></a>
+            </li>
+              <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+             <!-- Divider -->
+            
+           <!-- Divider -->
+      
+
+            <!-- Sidebar Toggler (Sidebar) -->
+            <div class="text-center d-none d-md-inline">
+                <button class="rounded-circle border-0" id="sidebarToggle"></button>
+            </div>
+
+        </ul>

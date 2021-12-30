@@ -1,0 +1,55 @@
+
+
+.dcc_compon {
+    margin: 0 auto;
+    padding: 5px;
+    width: calc(100%-40px);
+  }
+  
+  .fix_label {
+    font-size: 15px;
+    margin: 0;
+    padding: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    width: calc(100%-40px);
+  }
+  
+  .grid_one_column {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+  }
+  
+  .grid_height {
+      height: 155px;
+      width: 200px;
+      background-color: #010914;
+  }
+  
+  .adjust_grids {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-left: -15px;
+  }
+  
+  .bar_chart_height {
+    height: 900px;
+    width: 950px;
+  }
+  
+  .container-display {
+    display: flex;
+  }
+  
+  .flex-display {
+    display: flex;
+  }
+  
+  #mainContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  
+ 

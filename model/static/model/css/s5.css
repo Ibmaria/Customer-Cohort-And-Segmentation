@@ -1,0 +1,32 @@
+
+.row{
+    display: flex;
+  }
+.box {
+    border-radius: 20px;
+    background-color: #F9F9F8;
+    margin: 2px;
+    padding: 2px;
+    box-shadow: 2px 2px 2px lightgrey;
+  }
+  
+  .box_comment {
+    border-radius: 20px;
+    background-color: #d4f5c29a;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 2px lightgrey;
+    font-size: small;
+    text-align: center;
+    font-family: system-ui;
+  }
+  
+  .box_emissions{
+    border-radius: 20px;
+    background-color: #DCDCDC;    
+    margin: 2px;
+    box-shadow: 2px 2px 2px lightgrey;
+    justify-content: center;
+    width: 50%;
+    text-align: center;
+  }
