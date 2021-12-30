@@ -118,9 +118,11 @@ The project is coded using a simple and intuitive structure presented below:
    |     |*.ipynb
    |--model
    |    |--dashapps
-   |       |--migrations
-   |     |--static
-   |     |--templates
+          *.py
+   |    |--migrations
+   |    |--static
+   |    |--templates
+   |    |   *.html
    |
    |-- requirements.txt                    # Development modules - SQLite  storage                               
    |-- manage.py                           # Start the app - Django default start script
