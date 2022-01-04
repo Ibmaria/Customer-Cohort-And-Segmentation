@@ -44,10 +44,10 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 <br />
 
-## Inscription SnapShot
+## Inscription Screenshot
 ![App screenshot](https://github.com/Ibmaria/Cdiscount-Customer-Feedback-Analysis/blob/master/screenshot/inscription.PNG)
 
-## Login SnapShot
+## Login Screenshot
 ![App screenshot](https://github.com/Ibmaria/Customer-Cohort-And-Segmentation/blob/master/screenshot/login.png)
 <br /> 
 
